@@ -4,15 +4,17 @@
     box-sizing: border-box;
   }
   body {
+    background-image: url("images/us2.jpg"); /* Replace with your image path */
+    background-size: cover; /* Cover the entire screen */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent repeating */
+  }
+  body {
     min-height: 100vh;
     display: grid;
     place-items: center;
     overflow: hidden;
     font-family: sans-serif;
-    background-color: rgb(1, 1, 1);
-    background-image: linear-gradient  (#ffe5e5);
-    color: white;
-    transition: background-color 500ms ease;
   } /* header */
   header {
     position: absolute;
