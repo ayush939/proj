@@ -8,7 +8,7 @@
   
   body {
     background-image: url("images/us.jpg"); /* Replace with your image path */
-    background-size: auto; /* Cover the entire screen */
+    background-size: cover; /* Cover the entire screen */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent repeating */
   }
