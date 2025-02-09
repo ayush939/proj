@@ -1,5 +1,5 @@
 const febHolidays = [
-    "Dear Baby, please feel it",
+    "because ",
     "Please ye pyaar ka cycle hai, achee se feel karna",
     "Dost bhi tum, pyaar bhi tum 😊",
     "ek bhi tum aur hazar bhi tum 🤩",
